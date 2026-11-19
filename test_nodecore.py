@@ -1,4 +1,4 @@
-#Automated QA Suite
+#Automated QA Suite(first project)
 
 import pytest
 from nodecore import calc_utilization, get_thermal_state
