@@ -1,4 +1,4 @@
-#Automated QA Suite(too basic code)
+#Automated QA Suite(basic code)
 
 import pytest
 from nodecore import calc_utilization, get_thermal_state
