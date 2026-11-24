@@ -1,4 +1,4 @@
-#first too  basic project
+#first  basic project
 
 
 def calc_utilization(node_name, vram_req):
